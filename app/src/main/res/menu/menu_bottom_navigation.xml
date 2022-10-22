@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/workout_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sports_football_24"
+        android:title="Workouts"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/dashboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Dashboard"
+        app:showAsAction="ifRoom" />
+</menu>
