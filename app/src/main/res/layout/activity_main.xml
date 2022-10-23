@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+    <FrameLayout
+        android:id="@+id/exercise_frame_layout"
         android:layout_width="391dp"
         android:layout_height="543dp"
         android:layout_marginBottom="140dp"
